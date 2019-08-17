@@ -7,9 +7,9 @@
 
 @mixin line {
   display: inline-block;
-  width: $button-size;
-  height: $button-size/7;
-  background: $white;
+  width: $button-size*2;
+  height: $button-size/6;
+  background: $black;
   transition: $transition;
 }
 
