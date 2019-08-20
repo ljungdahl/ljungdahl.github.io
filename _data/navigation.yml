@@ -1,6 +1,16 @@
 # Site navigation links
 
+- title: Notes
+  url: /notes/
+  excerpt: "Notes on maths/physics of varying length and level."
+  image:
+
 - title: Teaching
   url: /teaching/
   excerpt: "Information and resources concerning my current and past teaching duties at Stockholm University."
+  image:
+
+- title: Projects
+  url: /projects/
+  excerpt: "My previous project work and publications."
   image:
