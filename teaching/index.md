@@ -1,5 +1,5 @@
 ---
-layout: teachings
+layout: teaching
 image:
   feature: beachsquare2.jpg
 permalink: /teaching/
