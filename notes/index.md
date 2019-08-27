@@ -11,4 +11,4 @@ If you find any errors please [let me know](mailto:anton.ljungdahl@fysik.su.se).
 
 ## Quantum Mechanics
 
-* [Angular momentum](https://github.com/ljungdahl/notes/blob/master/atomic_physics/angular_momentum/main_angmom.pdf) (pdf)
+* [Angular momentum](https://github.com/ljungdahl/notes/raw/master/atomic_physics/angular_momentum/main_angmom.pdf) (pdf)
