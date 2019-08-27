@@ -13,7 +13,7 @@ For the autumn 2019/spring 2020 academic year I am a TA in the following courses
 
 I also host a weekly coding workshop during the first halves of the autumn and spring semesters.
 
-# Resources
+Resources:
 
 ### FK4026s Statistik för fysiker
 
