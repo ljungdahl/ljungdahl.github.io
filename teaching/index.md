@@ -15,6 +15,6 @@ I also host a weekly coding workshop during the first halves of the autumn and s
 
 # Resources
 
-## FK4026s Statistik för fysiker
+### FK4026s Statistik för fysiker
 
   * [Background material for the first two computer labs](/teaching/files/fk4026_lab1_extra_bg.pdf) (Swedish pdf)
