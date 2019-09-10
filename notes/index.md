@@ -6,7 +6,7 @@ permalink: /notes/
 title: " "
 ---
 
-The point of these notes is to make some explicit calculations and keep them somewhere, and formulate concepts for myself.
+The point of these notes is to make some explicit calculations and keep them somewhere, and explain things to myself.
 If you find any errors please [let me know](mailto:anton.ljungdahl@fysik.su.se).
 
 ### Quantum Mechanics
